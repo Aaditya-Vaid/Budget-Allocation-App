@@ -1,14 +1,14 @@
-#React Budget App Images
+# React Budget App Images
 
 ![budget_allocation](https://github.com/user-attachments/assets/20c475ae-48b0-42fd-be2e-add3600991d8)
 
 An error message is shown when allocated budget value is more than tha remaining.
 
-![budget_allocation_error message](https://github.com/user-attachments/assets/ef1d130f-33f3-4d88-a37c-2e45f9017d87)
+![Screenshot 2024-07-12 205658](https://github.com/user-attachments/assets/0aff995d-d36f-4482-a1bb-2c2ab4709aa8)
 
 Budget cannot be reduced to a value which is less than total spending
 
-![budget_morethan_spending](https://github.com/user-attachments/assets/a8caf7c9-0229-42f1-a80c-62fb89116bf2)
+![Screenshot 2024-07-12 205751](https://github.com/user-attachments/assets/b87c42c9-e163-4895-96fa-5f4cc7bc5d16)
 
 It has an Change currency option which is provided for companies in different countries.
 NOTE: Changing currency is not same as currency conversion.
