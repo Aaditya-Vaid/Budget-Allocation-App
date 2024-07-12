@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-07-12 210125](https://github.com/user-attachments/assets/ba308dcf-91ff-45e3-85ba-4024585acafe)
 
-An error message is shown when allocated budget value is more than tha remaining.
+An error message is shown when allocated budget value is more than remaining.
 
 ![Screenshot 2024-07-12 205658](https://github.com/user-attachments/assets/0aff995d-d36f-4482-a1bb-2c2ab4709aa8)
 
