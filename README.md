@@ -1,6 +1,6 @@
 # React Budget App Images
 
-![budget_allocation](https://github.com/user-attachments/assets/20c475ae-48b0-42fd-be2e-add3600991d8)
+![Screenshot 2024-07-12 210125](https://github.com/user-attachments/assets/ba308dcf-91ff-45e3-85ba-4024585acafe)
 
 An error message is shown when allocated budget value is more than tha remaining.
 
